@@ -1,3 +1,4 @@
+```markdown
 ```mermaid
 gantt
     title 서비스 인프라 이전 플랜
@@ -18,4 +19,5 @@ gantt
     section 마무리
     구 시스템 종료         :d1, after c3, 2d
     최종 보고서 작성       :d2, after d1, 3d
+```
 ```
